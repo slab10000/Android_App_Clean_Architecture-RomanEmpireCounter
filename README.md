@@ -107,20 +107,29 @@ Check out my content to see the app development journey, architecture decisions,
 
 ## 🎨 Screenshots
 
-### Main Screen - Counter
-![Main Screen - Counter](screenshots/main_screen_counter.jpeg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/main_screen_counter.jpeg" alt="Main Screen - Counter" width="200"/>
+      <br/>
+      <strong>Main Screen - Counter</strong>
+    </td>
+    <td align="center">
+      <img src="screenshots/main_screen_latin_quote.jpeg" alt="Main Screen - Latin Quote" width="200"/>
+      <br/>
+      <strong>Main Screen - Latin Quote</strong>
+    </td>
+    <td align="center">
+      <img src="screenshots/history_screen.jpeg" alt="History Screen with Filter" width="200"/>
+      <br/>
+      <strong>History Screen</strong>
+    </td>
+  </tr>
+</table>
 
-The main screen features a large laurel wreath counter displaying Roman numerals. Users can press to increase the counter or hold to reset.
+**Main Screen**: Features a large laurel wreath counter displaying Roman numerals. Users can press to increase the counter or hold to reset. The screen also displays inspirational Latin phrases with their definitions.
 
-### Main Screen - Latin Quote
-![Main Screen - Latin Quote](screenshots/main_screen_latin_quote.jpeg)
-
-The screen displays inspirational Latin phrases with their definitions, enhancing the Roman Empire experience.
-
-### History Screen
-![History Screen with Filter](screenshots/history_screen.jpeg)
-
-The history screen shows all your recorded days with a filter option (7 Days, Month, Year, or All). Each entry displays the date and the counter value in Roman numerals, with today's entry highlighted in green.
+**History Screen**: Shows all your recorded days with a filter option (7 Days, Month, Year, or All). Each entry displays the date and the counter value in Roman numerals, with today's entry highlighted in green.
 
 ## 📊 App Information
 
