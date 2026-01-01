@@ -107,16 +107,19 @@ Check out my content to see the app development journey, architecture decisions,
 
 ## 🎨 Screenshots
 
-<div align="center">
-  <img src="screenshots/main_screen_counter.png" alt="Main Screen - Counter" width="250"/>
-  <img src="screenshots/main_screen_latin_quote.png" alt="Main Screen - Latin Quote" width="250"/>
-  <img src="screenshots/history_screen.png" alt="History Screen with Filter" width="250"/>
-</div>
+### Main Screen - Counter
+![Main Screen - Counter](screenshots/main_screen_counter.jpeg)
 
-### Main Screen
-The main screen features a large laurel wreath counter displaying Roman numerals. Users can press to increase the counter or hold to reset. The screen also displays inspirational Latin phrases with their definitions.
+The main screen features a large laurel wreath counter displaying Roman numerals. Users can press to increase the counter or hold to reset.
+
+### Main Screen - Latin Quote
+![Main Screen - Latin Quote](screenshots/main_screen_latin_quote.jpeg)
+
+The screen displays inspirational Latin phrases with their definitions, enhancing the Roman Empire experience.
 
 ### History Screen
+![History Screen with Filter](screenshots/history_screen.jpeg)
+
 The history screen shows all your recorded days with a filter option (7 Days, Month, Year, or All). Each entry displays the date and the counter value in Roman numerals, with today's entry highlighted in green.
 
 ## 📊 App Information
